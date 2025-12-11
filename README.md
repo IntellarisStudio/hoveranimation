@@ -1,9 +1,11 @@
 ## 🚀 Installation
-\`\`\`bash
 npm install
-\`\`\`
 
 ## ▶️ Run Dev Server
-\`\`\`bash
 npm run dev
-\`\`\`
+
+## Built in 
+Vite
+JavaScript
+CSS / SCSS animations
+HTML5
