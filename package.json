@@ -1,0 +1,16 @@
+{
+  "name": "codegrid-lacrapulestudio-hover-animation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "gsap": "^3.13.0",
+    "vite": "^7.1.12"
+  }
+}
